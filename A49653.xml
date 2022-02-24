@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech, confession and execution of the two prisoners at  Tyburn, on Friday the 23d of this instant May, 1684 viz. [brace] John Gower and Fra. Robinson [brace].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49653</idno>
+            <idno type="STC">Wing L505CA</idno>
+            <idno type="STC">ESTC R41455</idno>
+            <idno type="EEBO-CITATION">31355381</idno>
+            <idno type="OCLC">ocm 31355381</idno>
+            <idno type="VID">110432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech, confession and execution of the two prisoners at  Tyburn, on Friday the 23d of this instant May, 1684 viz. [brace] John Gower and Fra. Robinson [brace].</title>
+               </titleStmt>
+               <extent>4. p.   </extent>
+               <publicationStmt>
+                  <publisher>By E.M. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, with print show-through, and loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110432:1" rendition="simple:additions"/>
+            <head>The laſt SPEECH, CONFESSION AND EXECUTION of the two Priſoners at TYBURN, On <hi>Friday</hi> the 23d. of this Inſtant <hi>May,</hi> 1684.</head>
+            <head type="sub">
+               <hi>Viz. John Gower</hi> and <hi>Fran. Robinſon</hi>
+            </head>
+            <div type="part">
+               <p>ON the 15th. and 16th. of this preſent Month at the Seſſions in the <hi>Old-Bayly</hi> for the City of <hi>London,</hi> and County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex,</hi> five perſons recieved Sentence of Death, the four a<g ref="char:EOLhyphen"/>bove mentioned, and one <hi>Edward Hubbart,</hi> who recieved his Majeſties Gracious Reprieve.</p>
+               <p>
+                  <hi>John Gower,</hi> was formerly an Apprentice to a Coach-Maker in <hi>Long-Acre</hi> and Indicted for Murthering his Wife, who was the ſame perſon found dead at <hi>Green-Berry Hill</hi> in <hi>March</hi> laſt, which he effected by Shooting her into the back part of her Head with a Piſtol Bullet. This ſame <hi>John Gower</hi> being about 26 years of Age was married privately to his late murder'd Wife three years before his time was out, and the Marriage kept private; ſhe living all the time with her Relations in the Country: his time being now expired he married his Maſters Maid, who was his fellow Servant; his firſt Wife conſidering he was now free, and for himſelf, came up to <hi>London</hi> and lodged at <hi>Knightsbridge,</hi> and ſent to her Husband to deſire him to come to her, which accordingly he did, upon the <hi>Wedneſday,</hi> as ſoon as he ſaw her, he earneſtly preſt her for money, and ſhe denying ſhe had any, he ranſack'd her Box and Cloaths, and in all his Expreſſions and Behaviour, ſhew'd himſelf ac<g ref="char:EOLhyphen"/>cording to his Natural Temper very churliſh and dogged to her. On the <hi>Monday</hi> following they were in <hi>Holbourn</hi> together at a Farriers Houſe, and ſome ſhort time after ſhe was found murder'd as aforeſaid; nor does it appear that ſhe ever gave him any Provocation, and though poſſibly ſhe might know he had married a ſecond Wife which he loved better being a younger Woman, yet did ſhe never take any publick No<g ref="char:EOLhyphen"/>tice of it, or ſhew her Diſcontent by any open Reflections upon him. At the Bar he denyed the Crime, tho he was not able by any conſider<g ref="char:EOLhyphen"/>able Circumſtance to clear himſelf; but the laſt Night before his Exe<g ref="char:EOLhyphen"/>cution,
+<pb n="2" facs="tcp:110432:2"/>he was earneſtly deſired to Confeſs, who anſwered that he was not Guilty of the Fact for which he was condemned. It is ve<g ref="char:EOLhyphen"/>ry obſervable that he was the firſt perſon after her Murder before the publick diſcovery of it, who talk'd of it and give out News that ſhe was dead, and a little before had ſent to <hi>Knightsbridge</hi> for her Cloaths and Box; but the Landlady refuſing to ſend them unleſs ſhe came her ſelf, he ſent word ſhe was very ill of ſore Eyes, and that he had taken a Lodging for her in <hi>Witch-Street</hi> at the ſign of the <hi>Coffin,</hi> which was all a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and untruth. After Sentence, he was very penitent, and his ſurviving Wife come in often to ſee him in Priſon, he cleared her from any ways being Privy to it or having any knowledge of it. He was always taken notice of, to be of a very morroſs and revengeful hu<g ref="char:EOLhyphen"/>mor; and 'tis ſaid, had formerly offer'd a young fellow 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to lie with her, that he might have pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence for a Divorce, but that deſign not ſucceeding, reſolved upon this Inhumane and Barbarous Murder <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he deſervedly ſuffers for. His ſurviving Wife ſhewed a great deal of ſor<g ref="char:EOLhyphen"/>row, for her Husband &amp; was often with him, and wears the Character of a modeſt ſober Woman.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Francis Robinſon</hi> was an old Offender, tho but a young man about 30 years of Age, he was Notoriouſly Eminent a<g ref="char:EOLhyphen"/>mongſt thoſe of his Gang for his daring Exploits of Rogue<g ref="char:EOLhyphen"/>ry, which he had frequently Committed both in <hi>England</hi> and <hi>Ireland;</hi> I ſhall firſt ſpeak of one, which he committed at <hi>Windſor,</hi> which was ſo bold and confident a piece of Villany that it very well deſerves a remembrance here, &amp; to proceed to the Crime he now ſuffers for His Majeſty being at <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> he and one <hi>Syms</hi> both dreſt in a good Habit, went as Gentlemen to ſee the Court, and paſſing the Sentinal to Mr. <hi>Mays</hi> Lodging, Privy Purſe to the King, which they broke open and took in mony and plate to the Value of 300 <abbr>
+                     <hi>l.</hi>
+                  </abbr> they repaſſed the Sentinal undiſcover'd, and went off with the Prize. <hi>Syms</hi> was afterwards taken, but abſolutely denyed the Fact and ſome time after <hi>Robinſon</hi> was apprehended in <hi>White-Fryers</hi> and tryed before the <hi>Green-Cloath</hi> and pardon'd. There was one Circumſtance very remarkable a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he ſince con<g ref="char:EOLhyphen"/>feſs'd, that as they were buſie about their Pillage, a Bird which hung in a Cage in the Window, fell a ſinging, and ſung ſo curiouſly well, that either ſurprized with ſtrange thoughts from the ſweetneſs and harmony of the Notes, unfearing that ſome perſon near hand, hearing the Bird ſing might be drawn thither by the pleaſantneſs of the Muſick, they left the beſt part of their deſigned, ſpoil, and in a ſtrange confuſion made haſt away. The Fact for which he ſuffered was that he and one Mr. <hi>Fletcher</hi> were Indicted for ſtealing two Silver
+<pb n="3" facs="tcp:110432:2"/>Tankards on the 10th. of <hi>March,</hi> to the value of 14. <abbr>
+                     <hi>l.</hi>
+                  </abbr> being the Goods of <hi>Henry Boon</hi> a Cook near the <hi>Royal Exchange:</hi> ſoon after his loſs two men came to deſire him to go into <hi>Salisbury-Court</hi> to one Mr. <hi>Fletcher,</hi> who could tell what was become of his Tankards, accordingly at the <hi>Swan</hi> he found <hi>Fletcher,</hi> who told him that <hi>Francis Robinſon</hi> had ſtole his Tankards, and that he ſtood at the door while <hi>Robinſon</hi> fetch<g ref="char:EOLhyphen"/>ed them from the Bar, that the Tankards were ſold and melt<g ref="char:EOLhyphen"/>ed down. The next day <hi>Mr. Boon</hi> having taken ſome Women into Cuſtody upon Suſpicion, <hi>Robinſon</hi> came to them and privately asked him what they were worth, and offered to make ſatisfaction for them, he denyed upon his Tryal what he had ſaid to Mr. <hi>Boon,</hi> but ſince his Sentence has been very o<g ref="char:EOLhyphen"/>pen in his Confeſſions and penitential in his Behaviour.</p>
+               <p>He went for the reputed huſband of <hi>Jane Voſs</hi> a notorious criminal, one who is infamouſly known in Town for her ſeverall Cheats and Thefts, and at preſent a priſoner in <hi>Newgate;</hi> but however this poor Wretch ſeemed before hardned in his Sins and feared in his Conſcience ſince his condemnation he has been more ſeriouſly thoughtful of his latter end; remembring his former vitious courſes with anger and de<g ref="char:EOLhyphen"/>teſtation, conſtantly praying to God to give him a true ſence of his un<g ref="char:EOLhyphen"/>happy condition, and his grace ſincerely, and from the bottom of his heart to repent of all his Tranſgreſſions.</p>
+               <p>More particularly on <hi>Tueſday</hi> laſt he deſired to have his <hi>Coffin</hi> brought to him in the condemned hole which was granted, upon ſight of it; this ſays he <hi>is my Memento, and I hope I ſhall ſo prepare my ſelf to lye down in duſt, that through the mercies of God</hi> I <hi>may riſe in glory.</hi> That worthy perſon and Reverend Divine Dr. <hi>Hornneck,</hi> was pleaſed out of his abundant charity, to viſit the poor Priſoners, &amp; with powerful Ar<g ref="char:EOLhyphen"/>guments both exhort and encourage them to a true and hearty ſorrow and contrition: To whom <hi>Robinſon</hi> confeſt his manifold offences, and ſaid that his Crimes were great and numerous, he would endeavour in ſome meaſure to anſwer them in a profound penitence and abſolute re<g ref="char:EOLhyphen"/>ſignation to the will and pleaſure of his great Creator.</p>
+               <p>This <hi>Morning</hi> about half an hour after Nine of the Clock, the two aforeſaid <hi>Malefactors</hi> were put into a Cart at <hi>Newgate,</hi> and conveyed to the place of Execution <hi>Francis Robinſon</hi> ſeemed undaunted; but the other, <hi>John Gower,</hi> ſhewed himſelf very penitent and exceeding ſorrow<g ref="char:EOLhyphen"/>ful for ſo great a Crime; yet, when arrived at the place of Execution, was aſſiſted by two moſt worthy Divines; who asked him what he had now to ſay it being the laſt moment he had to ſtay in this World, but that he muſt now think of another, and deſireing him to confeſs what he had ſo long and obdurately ſtood in, though to no effect, and that there was no hopes of Redemption but only of Redeeming his Soul by his Bleſſed Saviour Jeſus Chriſt; he ſtill affirming he was Innocent, and knew nothing of the Crime for which he was now to ſuffer; but tho he was moſt earneſtly importuned by the ſaid Divines who alſo prayed with him, and admoniſhed him not to go out of this World
+<pb n="4" facs="tcp:110432:3" rendition="simple:additions"/>with a lye in his <hi>Mouth,</hi> he being but a Young Man. Firſt they drew from him, that he only had been ſo far concerned as to contrive the way how ſhe might be Murthered; then being <hi>asked</hi> who were the Actors in this <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he was the <hi>Contriver,</hi> which he ſtill refuſed to confeſs; then being prayed with again he ſeemed ſomething more ſoftned and eaſier to be <hi>worked</hi> on (which eſpecially one of the ſaid Divines obſerved and and ſtrove to draw from him): He then confeſſed to them ſhe was mur<g ref="char:EOLhyphen"/>thred by himſelf, they ſtill fearing he might not yet have cleared his Conſcience, urged him on ſtill to draw a full and true Confuſion from him, prayed with him again, and ſang à <hi>Pſalm,</hi> and af<g ref="char:EOLhyphen"/>ter ſome ſhort time went out of the Cart, he then being deſired by the Sheriffs Officers and of thoſe of his Friends neareſt, to diſpatch; and make a True and Faithful End. He then <hi>ſpoke</hi> after theſe words I have been a great Sinner, and <hi>kept</hi> ill Company, of which <hi>I</hi> deſire all to beware: <hi>I</hi> indeed Married two Wives, the firſt of which <hi>I</hi> married, ſuffer'd by my own hands, and <hi>I</hi> ſhot the Piſtol my ſelf, which gave that moſt fatal blow: but he then being <hi>asked</hi> if his other Wife <hi>knew</hi> any thing, he declared ſhe <hi>knew</hi> her not, and therefere was innocent, and deſired that ſhe might not be queſtioned about it, and being asked by the ſaid Divine if he was not Guilty of <hi>Sabbath</hi>-brea<g ref="char:EOLhyphen"/>king, he declared he was, and it was his Original ſin, and gave advice to all Maſters not to be negligent of their Servants, for that was great part of his Ruin, and this untimely end, the other being asked what he had to ſay, anſwered he had nothing more to ſay, than that he was a great Offender, but that he hoped he had made a ſufficient Confeſ<g ref="char:EOLhyphen"/>ſion already for his ſins paſt, and that he had nothing more to ſay at the place of Execution; ſo that after the Prayers of all good Chriſtians: they were turned off, and accordingly ſuffered, their Bodys being put into two Coffins, and diſpoſed of by their Friends.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Whereas</hi> George Croom <hi>has given an</hi> Advertiſement, <hi>at the end of his laſt</hi> Account of the Seſſions, <hi>that he will for the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; Print the</hi> Dying Confeſſions <hi>of Priſoners, who ſhall be Executed, that the W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not be <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by falſe ones; which <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very unjuſt and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Reflection <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hereof, who has for ſeveral years laſt paſt publiſhed both an</hi> Account of the Seſſions, <hi>and the</hi> Laſt Speeches of the dy<g ref="char:EOLhyphen"/>ing Criminals, <hi>without being ever a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ted or charged with a falſity. This is to ac<g ref="char:EOLhyphen"/>quaint the World, that notwithſtanding all his ſober pretenſions to Truth, the Printing that abominable Story of the</hi> Devils appearing to a Wapping Waterman and ſmok<g ref="char:EOLhyphen"/>ing a Pipe of Tabacco with him; <hi>It is ſo g<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> a Lye, that any body but the Author would be aſhamed of chargeing where with a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they are purely innocent of, and He ſo deeply Guilty. The Reader may farther pleaſe, to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that the</hi> Speeches &amp; Con<g ref="char:EOLhyphen"/>feſſions of the Priſoners <hi>who ſhall hereafter ſuffer will be Printed with all Truth and G<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r,</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>By <hi>E. M.</hi> in <hi>Blackhorſe-Alley</hi> in <hi>Fleet-Street</hi> near <hi>Fleet-Bridge,</hi> 1684</p>
+         </div>
+      </back>
+   </text>
+</TEI>
